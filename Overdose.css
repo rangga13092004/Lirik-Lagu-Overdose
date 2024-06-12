@@ -1,0 +1,66 @@
+/* Song: Overdose (CSS Version) */
+/* Artist: Natori */
+/* Lyrics: Adapted by ChatGPT */
+
+.overdose {
+    --intro: {
+      content: "Jujur saja ku sadar hanya kan berakhir percuma,namun mengapa";
+      display: block;
+      font-style: italic;
+    };
+  
+    --verse1: {
+      content: "Sesuatu yang terselip di tangan ini rasanya bagai cinta. Kata-kata yang miliki makna sejatinya tak sulit digoyahkan";
+      display: block;
+      font-style: normal;
+    };
+  
+    --prechorus: {
+      content: "Bermain-main dengan khayalan sungguh bosan selalu membandingkan jawaban Namun begitu tiap dekat dengan kebenaran";
+      display: block;
+      font-weight: bold;
+    };
+  
+    --chorus: {
+      content: "Terlena lupakan segalanya Memungkiri perasaan yang sebenarnya Saat kita bertatap Overdose, denganmu kini lalui hari-hari Bagai tak berdaya di keruhnya mimpi Overdose, denganmu kini muslihat yang manis Don't stop it music, darling";
+      display: block;
+      text-transform: uppercase;
+    };
+  
+    --verse2: {
+      content: "Jujur kau pun sadar hanya kan berakhir percuma, lalu mengapa Penuh kebimbangan seiring waktu yang telah berlalu lama Tiada guna membuat alasan lebih baik mulai berterus terang";
+      display: block;
+      font-style: normal;
+    };
+  
+    --prechorus2: {
+      content: "Dibanding menimbun selamanya Akhiri sekarang pun tak buruk juga Sebelum kian membusuk hingga meninggalkan luka lebih parah nantinya";
+      display: block;
+      font-weight: bold;
+    };
+  
+    --chorus2: {
+      content: "Terbuai lupakan segalanya Memungkiri kenyataan yang sebenarnya Saat kita bertatap Overdose, denganmu kini ku ingin mengerti Tepikanlah segala dusta yang ku benci Overdose, denganmu kini ku ingin pahami Two step from (hell) with me, darling";
+      display: block;
+      text-transform: uppercase;
+    };
+  
+    --bridge: {
+      content: "Overdose, denganmu kini lalui hari-hari Bagai tak berdaya di keruhnya mimpi Overdose, denganmu kini muslihat yang manis Don't stop it music, darling";
+      display: block;
+      font-style: italic;
+    };
+  
+    --chorus3: {
+      content: "Overdose, denganmu kini tak mampu mengerti Dalam pusat segala dusta yang ku benci (Biarlah oh) Denganmu kini muslihat yang manis Don't stop it music, darling";
+      display: block;
+      text-transform: uppercase;
+    };
+  
+    --outro: {
+      content: "Jujur saja ku sadar hanya kan berakhir percuma, namun mengapa";
+      display: block;
+      font-style: italic;
+    };
+  }
+  
